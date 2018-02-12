@@ -6,9 +6,9 @@
 
 **Day of week, hour of day heatmap**
 
-[Heatmap3]:https://diaazul.github.io/powerBI-visual-Heatmap3/
+[Heatmap3]:(https://diaazul.github.io/powerBI-visual-Heatmap3/)
 
 **Population Pyramid**
 
-[PopPyramid3]:https://diaazul.github.io/powerBI-visual-PopPyramid3/
+[PopPyramid3]:(https://diaazul.github.io/powerBI-visual-PopPyramid3/)
 
