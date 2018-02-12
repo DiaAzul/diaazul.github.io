@@ -13,7 +13,7 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 
 **Population Pyramid**
 
-<img src="./assets/populationPyramid.png" width="300" title="Population pyramid chart">
+<img src="https://diaazul.github.io/powerBI-visual-PopPyramid3//assets/populationPyramid.png" width="300" title="Population pyramid chart">
 
 This visualisation has both left and right horizontal axis to show population data by age and gender.
 
