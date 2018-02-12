@@ -13,6 +13,8 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 
 [https://diaazul.github.io/powerBI-visual-Heatmap3/](https://diaazul.github.io/powerBI-visual-Heatmap3/)
 
+
+
 **Population Pyramid**
 
 <img src="https://diaazul.github.io/powerBI-visual-PopPyramid3//assets/populationPyramid.png" width="400" title="Population pyramid chart">
@@ -21,3 +23,4 @@ This visualisation has both left and right horizontal axis to show population da
 
 [https://diaazul.github.io/powerBI-visual-PopPyramid3/](https://diaazul.github.io/powerBI-visual-PopPyramid3/)
 
+[Download .pbiz file](https://diaazul.github.io/dist/popPyramid3 V1.12.0.pbiviz)
