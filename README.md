@@ -7,7 +7,7 @@ Custom visualisations for Microsoft PowerBI.
 
 **Day of week, hour of day heatmap**
 
-<img src="https://diaazul.github.io/powerBI-visual-Heatmap3/assets/heatmapExample1.png" width="400">
+<img src="https://diaazul.github.io/powerBI-visual-Heatmap3/assets/heatmapExample1.png" width="600">
 
 This visualisation is a specific case of a generalised two dimensional heatmap, but with a focus on showing data by day of week and hour of day.
 
@@ -18,7 +18,7 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 
 **Population Pyramid**
 
-<img src="https://diaazul.github.io/powerBI-visual-PopPyramid3//assets/populationPyramid.png" width="400" title="Population pyramid chart">
+<img src="https://diaazul.github.io/powerBI-visual-PopPyramid3//assets/populationPyramid.png" width="600" title="Population pyramid chart">
 
 This visualisation has both left and right horizontal axis to show population data by age and gender.
 
