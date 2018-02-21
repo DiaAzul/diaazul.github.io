@@ -28,7 +28,7 @@ This visualisation has both left and right horizontal axis to show population da
 
 **Background Rectangle**
 
-<img src="https://diaazul.github.io/powerBI-visual-Backgrounds/assets/backgroundVisual.png" width="600" title="Background Rectangle">
+<img src="https://github.com/DiaAzul/powerBI-visual-Backgrounds/assets/backgroundVisual.png" width="600" title="Background Rectangle">
 
 This visualisation draws a rectangle (square or rounded) with solid fill or linear gradient, and provides greater control than the rectangle shape in Power BI.
 
