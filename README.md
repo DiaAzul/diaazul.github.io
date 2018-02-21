@@ -25,3 +25,13 @@ This visualisation has both left and right horizontal axis to show population da
 [https://diaazul.github.io/powerBI-visual-PopPyramid3/](https://diaazul.github.io/powerBI-visual-PopPyramid3/)
 
 [Download .pbiz file](https://diaazul.github.io/dist/popPyramid3 V1.12.0.pbiviz)
+
+**Background Rectangle**
+
+<img src="https://diaazul.github.io/powerBI-visual-Background3//assets/backgroundVisual.png" width="600" title="Background Rectangle">
+
+This visualisation draws a rectangle (square or rounded) with solid fill or linear gradient, and provides greater control than the rectangle shape in Power BI.
+
+[https://diaazul.github.io/powerBI-visual-Background3/](https://diaazul.github.io/powerBI-visual-Background3/)
+
+[Download .pbiz file](https://diaazul.github.io/dist/background V1.0.2.pbiviz)
