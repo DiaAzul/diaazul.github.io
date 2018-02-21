@@ -18,7 +18,7 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 
 **Population Pyramid**
 
-<img src="https://diaazul.github.io/powerBI-visual-PopPyramid3//assets/populationPyramid.png" width="600" title="Population pyramid chart">
+<img src="https://diaazul.github.io/powerBI-visual-PopPyramid3/assets/populationPyramid.png" width="600" title="Population pyramid chart">
 
 This visualisation has both left and right horizontal axis to show population data by age and gender.
 
@@ -28,10 +28,10 @@ This visualisation has both left and right horizontal axis to show population da
 
 **Background Rectangle**
 
-<img src="https://diaazul.github.io/powerBI-visual-Background3//assets/backgroundVisual.png" width="600" title="Background Rectangle">
+<img src="https://diaazul.github.io/powerBI-visual-Backgrounds/assets/backgroundVisual.png" width="600" title="Background Rectangle">
 
 This visualisation draws a rectangle (square or rounded) with solid fill or linear gradient, and provides greater control than the rectangle shape in Power BI.
 
-[https://diaazul.github.io/powerBI-visual-Background3/](https://diaazul.github.io/powerBI-visual-Background3/)
+[https://github.com/DiaAzul/powerBI-visual-Backgrounds/](https://github.com/DiaAzul/powerBI-visual-Backgrounds/)
 
 [Download .pbiz file](https://diaazul.github.io/dist/background V1.0.2.pbiviz)
