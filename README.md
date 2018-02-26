@@ -14,7 +14,7 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 [https://diaazul.github.io/powerBI-visual-Heatmap3/](https://diaazul.github.io/powerBI-visual-Heatmap3/)
 
 
-[Download .pbiz file (V1.11.1)](https://diaazul.github.io/dist/HeatmapV1.11.1.pbiviz)
+[Download .pbiz file (V1.11.2)](https://diaazul.github.io/dist/HeatmapV1.11.2.pbiviz)
 
 **Population Pyramid**
 
