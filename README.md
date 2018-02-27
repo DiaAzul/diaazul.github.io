@@ -34,4 +34,4 @@ This visualisation draws a rectangle (square or rounded) with solid fill or line
 
 [https://github.com/DiaAzul/powerBI-visual-Backgrounds/](https://github.com/DiaAzul/powerBI-visual-Backgrounds/)
 
-[Download .pbiz file (V1.0.2)](https://diaazul.github.io/dist/backgroundV1.0.2.pbiviz)
+[Download .pbiz file (V1.0.4)](https://diaazul.github.io/dist/backgroundV1.0.4.pbiviz)

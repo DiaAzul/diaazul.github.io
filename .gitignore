@@ -1,0 +1,6 @@
+.api
+.tmp
+.vscode
+coverage
+node_modules
+spec
