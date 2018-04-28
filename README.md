@@ -14,7 +14,7 @@ This visualisation is a specific case of a generalised two dimensional heatmap, 
 [https://diaazul.github.io/powerBI-visual-Heatmap3/](https://diaazul.github.io/powerBI-visual-Heatmap3/)
 
 
-[Download .pbiz file (V1.11.2)](https://diaazul.github.io/dist/HeatmapV1.11.2.pbiviz)
+[Download .pbiz file (V1.12.o)](https://diaazul.github.io/dist/HeatmapV1.12.0.pbiviz)
 
 **Population Pyramid**
 
@@ -24,7 +24,7 @@ This visualisation has both left and right horizontal axis to show population da
 
 [https://diaazul.github.io/powerBI-visual-PopPyramid3/](https://diaazul.github.io/powerBI-visual-PopPyramid3/)
 
-[Download .pbiz file (V1.12.0)](https://diaazul.github.io/dist/popPyramidV1.12.0.pbiviz)
+[Download .pbiz file (V1.14.0)](https://diaazul.github.io/dist/popPyramidV1.14.0.pbiviz)
 
 **Background Rectangle**
 
@@ -34,4 +34,4 @@ This visualisation draws a rectangle (square or rounded) with solid fill or line
 
 [https://github.com/DiaAzul/powerBI-visual-Backgrounds/](https://github.com/DiaAzul/powerBI-visual-Backgrounds/)
 
-[Download .pbiz file (V1.0.4)](https://diaazul.github.io/dist/backgroundV1.0.4.pbiviz)
+[Download .pbiz file (V1.0.7)](https://diaazul.github.io/dist/backgroundV1.0.7.pbiviz)
