@@ -24,7 +24,7 @@ This visualisation has both left and right horizontal axis to show population da
 
 [https://diaazul.github.io/powerBI-visual-PopPyramid3/](https://diaazul.github.io/powerBI-visual-PopPyramid3/)
 
-[Download .pbiz file (V1.14.0)](https://diaazul.github.io/dist/popPyramidV1.14.0.pbiviz)
+[Download .pbiz file (V1.16.0)](https://diaazul.github.io/dist/popPyramidV1.16.0.pbiviz)
 
 **Background Rectangle**
 
